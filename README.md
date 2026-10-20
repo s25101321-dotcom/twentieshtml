@@ -3,17 +3,6 @@
 
 <head>
 <meta charset="utf-8">
-<title>The Back of the Twenty Dollar Bill</title>
-
-<style>
-		h1 {
-			color: green;
-		}
-		p {
-			font-size: small;
-			font-family: sans-serif;
-		}
-</style>
 
 </head>
 
