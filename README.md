@@ -5,7 +5,25 @@
 <meta charset="utf-8">
 
 </head>
-
+<style>
+		h1 {
+			color: red;
+			border-bottom: 1px solid red;
+		}
+		p {
+			font-size: small;
+			font-family: sans-serif;
+			margin-left: 100px;
+		}
+		h2{
+			color: red;
+			margin-left: 100px
+		}
+		img {
+			float: right;
+			margin: 012px;
+		}
+</style>
 <body>
 <h1>The Back of the New $20</h1>
 
