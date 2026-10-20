@@ -8,20 +8,20 @@
 <style>
 		h1 {
 			color: red;
-			border-bottom: 1px solid red;
+			border-bottom: 1 px solid red;
 		}
 		p {
 			font-size: small;
 			font-family: sans-serif;
-			margin-left: 100px;
+			margin-left: 100 px;
 		}
 		h2{
 			color: red;
-			margin-left: 100px
+			margin-left: 100 px
 		}
 		img {
 			float: right;
-			margin: 012px;
+			margin: 012 px;
 		}
 </style>
 <body>
