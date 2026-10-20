@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 
 <head>
@@ -47,5 +47,3 @@
 <p>I'm not sure I've successfully cracked the code, so I'm asking for your help. I encourage you all to get a new $20 bill, connect the dots to find the message on the back (pencil is best), and mail it to me for review. Together, we can get to the bottom of this.</p>
 
 
-</body>
-</html> 
